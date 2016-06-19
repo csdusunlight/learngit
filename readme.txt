@@ -10,3 +10,5 @@ git rm file
 git remote add origin https://github.com/csdusunlight/learngit.git
 git remote rm origin
 git push -u origin master
+
+git clone git@github.com:csdusunlight/gitskills.git
