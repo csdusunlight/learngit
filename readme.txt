@@ -12,3 +12,4 @@ git remote rm origin
 git push -u origin master
 
 git clone git@github.com:csdusunlight/gitskills.git
+git checkout -b dev
