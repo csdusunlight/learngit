@@ -7,3 +7,6 @@ git reset --hard HEAD^
 git reset HEAD file
 git checkout -- file
 git rm file
+git remote add origin https://github.com/csdusunlight/learngit.git
+git remote rm origin
+git push -u origin master
